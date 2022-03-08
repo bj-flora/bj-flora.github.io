@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "bj-flora"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "somewhere in Earth"
-  email            :
+  location         : "somewhere on Earth"
+  email            : "pjae10@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
